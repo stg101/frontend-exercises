@@ -12,7 +12,3 @@ end
 get "/demo" do
   erb :hello_old
 end
-
-
-
-
